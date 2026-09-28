@@ -76,7 +76,7 @@ library_name: pytorch
 | 载体 | URL | 时间（UTC） |
 |---|---|---|
 | `huggingface.co` commit（**主载体**） | `https://huggingface.co/jxzhen/aec-2027-editx-lora/commit/b6d1621d583e6109ccc09f3e2dbe67b8d1820494` | `2026-09-28T16:30:20+00:00` |
-| GitHub Release（**第二载体**） | `https://github.com/jxzhen/aec-2027-editx-lora/releases/tag/v1.0` | `<UTC>` |
+| GitHub Release（**第二载体**） | `https://github.com/jxzhen/aec-2027-editx-lora/releases/tag/v1.0` | `2026-09-28T17:11:35Z` |
 
 ## 4. 完整性校验（SHA-256）
 
