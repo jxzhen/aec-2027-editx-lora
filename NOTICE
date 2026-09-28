@@ -1,0 +1,22 @@
+ICASSP 2027 Audio Editing Challenge — LoRA adapter weights
+Copyright (c) 2026 Jianxi Zheng
+
+This product includes a LoRA adapter trained on top of the following upstream work:
+
+  stepfun-ai / Step-Audio-EditX
+  Upstream repository code is licensed under the Apache License, Version 2.0.
+  The upstream model card additionally states a usage disclaimer (e.g. it
+  prohibits unauthorized voice cloning and similar misuse).  That disclaimer
+  applies to this derivative artifact as well.
+
+Attribution and compliance notes
+--------------------------------
+1. This release distributes ONLY our own LoRA adapter weights (weights/ directory).
+   No upstream base model or third-party weights are redistributed here.
+2. Users must obtain the upstream base model from its official source and comply
+   with the upstream license and usage disclaimer.
+3. Released for the ICASSP 2027 Audio Editing Challenge (Agent Track) and for
+   academic research.  First public release: on or before 2026-10-01 (UTC).
+4. Sole author of this release: Jianxi Zheng.
+
+Full license text: see LICENSE (Apache License, Version 2.0).
